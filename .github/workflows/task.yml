@@ -1,4 +1,4 @@
-name: CI-${{ github.actor }}
+name: CI-dianahorban477-bot
 
 on:
   pull_request:
